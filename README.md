@@ -6,6 +6,7 @@
 <!--
 Resources this page uses: 
 Visitor Count - https://twitter.com/ryanlanciaux/status/1283755637126705152 
+Jokes - https://github.com/ABSphreak/readme-jokes
 
 **caiovsky/caiovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
