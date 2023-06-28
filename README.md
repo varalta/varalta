@@ -3,6 +3,9 @@
 ![Visitor Count](https://profile-counter.glitch.me/caiovsky/count.svg)
 
 <!--
+Resources this page uses: 
+Visitor Count - https://twitter.com/ryanlanciaux/status/1283755637126705152 
+
 **caiovsky/caiovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
