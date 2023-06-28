@@ -7,8 +7,6 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/caiovsky/count.svg">
 
-</p>
-
 <!--
 Resources this page uses: 
 Visitor Count - https://twitter.com/ryanlanciaux/status/1283755637126705152 
