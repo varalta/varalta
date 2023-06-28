@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="google.com"><img src="https://media.tenor.com/RL4USH_DYoAAAAAM/reward.gif"/></a>
+  <a href="https://www.youtube.com/watch?v=NATSpYWERIE"><img src="https://media.tenor.com/RL4USH_DYoAAAAAM/reward.gif"/></a>
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/caiovsky/count.svg"></p>
