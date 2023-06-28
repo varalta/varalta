@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=%E3%82%AB%E3%83%A8%E3%83%96%E3%82%B9%E3%82%AD%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB;caiovsky's+profile)](https://git.io/typing-svg)
 
-### Here's a joke to brighten your day: 
+<p style="font-family:arial">### Here's a joke to brighten your day: </p>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 ![Visitor Count](https://profile-counter.glitch.me/caiovsky/count.svg)
