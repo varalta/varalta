@@ -1,5 +1,5 @@
 ### Here's a joke to brighten your day: 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 ![Visitor Count](https://profile-counter.glitch.me/caiovsky/count.svg)
 
