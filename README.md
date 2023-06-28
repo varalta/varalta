@@ -9,7 +9,7 @@
   <img src="https://media.tenor.com/NQ0nRbi_REIAAAAM/awesome-computer-kid-computer.gif" 
     style="width: 200px; height: 160px;"
   /> 
-  <img src="https://readme-jokes.vercel.app/api?hideBorder?hideBackground"
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=00FFFFFF"
     alt="Jokes Card" />
 </p>
 <hr>
@@ -22,7 +22,7 @@
 <!--
 Resources this page uses: 
 Visitor Count - https://twitter.com/ryanlanciaux/status/1283755637126705152 
-Jokes - https://github.com/ABSphreak/readme-jokes
+Random Dev Jokes - https://github.com/ABSphreak/readme-jokes
 Dynamic writing - https://github.com/DenverCoder1/readme-typing-svg
 
 **caiovsky/caiovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
