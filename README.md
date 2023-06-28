@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=caiovsky&left_color=green&right_color=red)
+![Visitor Count](https://profile-counter.glitch.me/caiovsky/count.svg)
 
 <!--
 **caiovsky/caiovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
