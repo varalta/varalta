@@ -3,10 +3,9 @@
   
 <p align="center"><img src="https://media.tenor.com/NQ0nRbi_REIAAAAM/awesome-computer-kid-computer.gif"/> </p>
 
-<p align="center" style="font-family:arial">Here's a joke to brighten your day: </p>
-
-<p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-<p align="center"><img src="https://profile-counter.glitch.me/caiovsky/count.svg">
+<p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" /></p>
+  
+<p align="center"><img src="https://profile-counter.glitch.me/caiovsky/count.svg"></p>
 
 <!--
 Resources this page uses: 
