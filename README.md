@@ -12,7 +12,11 @@
   <img src="https://readme-jokes.vercel.app/api?hideBorder"
     alt="Jokes Card" />
 </p>
-  
+
+<p align="center">
+  <a href="google.com"><img src="https://media.tenor.com/RL4USH_DYoAAAAAM/reward.gif"/></a>
+</p>
+
 <p align="center"><img src="https://profile-counter.glitch.me/caiovsky/count.svg"></p>
 
 <!--
