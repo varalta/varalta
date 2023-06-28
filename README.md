@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
-<p align="center">![Visitor Count](https://profile-counter.glitch.me/caiovsky/count.svg)
+<p align="center"><img src="https://profile-counter.glitch.me/caiovsky/count.svg">
 
 </p>
 
