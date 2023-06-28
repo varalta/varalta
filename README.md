@@ -5,14 +5,6 @@
   <img src="https://64.media.tumblr.com/dd86ec051142eb2115b87417d43424cc/tumblr_p7pgr1DteG1vpf6ddo1_400.gif" />  
 </p>
 <hr>
-<p> ROFL:ROFL:ROFL:ROFL
-<p>         _^___
-<p> L    __/   [] \
-<p>LOL===__        \
-<p> L      \________]
-<p>         I   I
-<p>        --------/
-<hr>
 <p align="center">
   <img src="https://media.tenor.com/NQ0nRbi_REIAAAAM/awesome-computer-kid-computer.gif" 
     style="width: 200px; height: 160px;"
