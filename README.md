@@ -3,7 +3,7 @@
   
 <p align="center">
   <img src="https://media.tenor.com/NQ0nRbi_REIAAAAM/awesome-computer-kid-computer.gif" 
-    style="width: 200px; height: 120px;"
+    style="width: 200px; height: 130px;"
   /> 
   <img src="https://readme-jokes.vercel.app/api?hideBorder"
     alt="Jokes Card" />
