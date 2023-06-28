@@ -3,7 +3,8 @@
 
 <p align="center" style="font-family:arial">Here's a joke to brighten your day: </p>
 
-<p align="center">![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+<p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+
 
 ![Visitor Count](https://profile-counter.glitch.me/caiovsky/count.svg)
 
