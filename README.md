@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=%E3%82%AB%E3%83%A8%E3%83%96%E3%82%B9%E3%82%AD%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB;caiovsky's+profile" alt="Typing SVG" /></a>
   
-<p align="center"><img src="https://media.tenor.com/NQ0nRbi_REIAAAAM/awesome-computer-kid-computer.gif"/> <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" /></p>
+<p align="center"><img src="https://media.tenor.com/NQ0nRbi_REIAAAAM/awesome-computer-kid-computer.gif" style="width: 200px; height: 90px;/> <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" /></p>
   
 <p align="center"><img src="https://profile-counter.glitch.me/caiovsky/count.svg"></p>
 
