@@ -3,11 +3,11 @@
 
 <p align="center" style="font-family:arial">Here's a joke to brighten your day: </p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+<p align="center">![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 ![Visitor Count](https://profile-counter.glitch.me/caiovsky/count.svg)
 
-</center>
+</p>
 
 <!--
 Resources this page uses: 
