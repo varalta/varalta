@@ -1,6 +1,8 @@
 <!--<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=%E3%82%AB%E3%83%A8%E3%83%96%E3%82%B9%E3%82%AD%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB;caiovsky's+profile" alt="Typing SVG" /></a>-->
 
+<iframe src="https://trinket.io/embed/python/629cf61c46?outputOnly=true&runOption=console" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 <p align="center">
   <img src="https://64.media.tumblr.com/dd86ec051142eb2115b87417d43424cc/tumblr_p7pgr1DteG1vpf6ddo1_400.gif" />  
 </p>
