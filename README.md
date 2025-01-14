@@ -1,30 +1,5 @@
-<!--<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=%E3%82%AB%E3%83%A8%E3%83%96%E3%82%B9%E3%82%AD%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB;caiovsky's+profile" alt="Typing SVG" /></a>-->
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/dd86ec051142eb2115b87417d43424cc/tumblr_p7pgr1DteG1vpf6ddo1_400.gif" />  
-</p>
-<hr>
-<p align="center">
-  <img src="https://media.tenor.com/NQ0nRbi_REIAAAAM/awesome-computer-kid-computer.gif" 
-    style="width: 200px; height: 160px;"
-  /> 
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=00FFFFFF"
-    alt="Jokes Card" />
-</p>
-<hr>
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=NATSpYWERIE"><img src="https://media.tenor.com/RL4USH_DYoAAAAAM/reward.gif"/></a>
-</p>
-
-<p align="center"><img src="https://profile-counter.glitch.me/caiovsky/count.svg"></p>
-
+Computer science student & video game enthusiast
 <!--
-Resources this page uses: 
-Visitor Count - https://twitter.com/ryanlanciaux/status/1283755637126705152 
-Random Dev Jokes - https://github.com/ABSphreak/readme-jokes
-Dynamic writing - https://github.com/DenverCoder1/readme-typing-svg
-
 **caiovsky/caiovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
