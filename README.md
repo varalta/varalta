@@ -1,4 +1,4 @@
-Computer science student & video game enthusiast
+Hey there! Welcome to my GitHub! :)
 <!--
 **caiovsky/caiovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
